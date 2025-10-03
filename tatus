@@ -1,0 +1,5 @@
+[33mcommit 920c678cff93f97ad8842f5d33370a51652aabb1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: abhit1589 <fly.amarendra@gmail.com>
+Date:   Thu Aug 14 16:58:10 2025 +0530
+
+    feat: implement PDF summary generation
