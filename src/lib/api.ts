@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://dental-clinic-backend-0twz.onrender.com/';
 
 class ApiError extends Error {
   constructor(public status: number, message: string) {
